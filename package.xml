@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>cpr_catkin</name>
+  <version>0.0.1</version>
+  <description>Catkin wrapper for whoshuu/cpr</description>
+  <maintainer email="felix.crazzolara@gmail.com">Felix Crazzolara</maintainer>
+
+  <license>See package</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
